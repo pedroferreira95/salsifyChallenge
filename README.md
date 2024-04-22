@@ -12,7 +12,8 @@
 
     2. What documentation, websites, etc did you consult in doing this assignment?
         Since I don't have any experience in Ruby development, I've used several sources, including the official Ruby
-        documentation, online tutorials and Stack Overflow.
+        documentation, online tutorials and several Stack Overflow discussion where people had similar doubts to the
+        ones that I had.
 
     3. What third-party libraries or other tools does the script use? How did you choose each library you used?
         -net/ftp - to connect to the FTP server
@@ -21,6 +22,9 @@
         -nokogiri - to parse the XML products  
         -nori - to convert from XML to JSON
         -uri - to create each URL to call the API
+        The choice for each library was basically from searching online about what the most common libraries are that
+        can do what I required. Since I'm not familiar with any other libraries in Ruby, i decided to use the ones I
+        saw being recommended to other people.
 
     4. How long did you spend on this exercise? If you had unlimited additional time to spend on this, how would you 
     spend it and how would you prioritize each item?
